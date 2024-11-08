@@ -4,7 +4,7 @@
 
 ## Instalación
 
-Para instalar la librería, navega al directorio donde se encuentra `setup.py` y ejecuta:
+Para instalar la librería, solo pon en tu terminal:
 
 ```bash
 pip install cord64

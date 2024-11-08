@@ -1,7 +1,8 @@
 Metadata-Version: 2.1
 Name: cord64
-Version: 0.0.2
+Version: 0.1.5
 Summary: Convert files to Base64 and vice versa.
+Home-page: https://github.com/EverGasterXd/cord64
 Author: evergaster
 License: MIT License
 Keywords: base64 convert file
@@ -21,7 +22,7 @@ Description-Content-Type: text/markdown
 
 ## Instalación
 
-Para instalar la librería, navega al directorio donde se encuentra `setup.py` y ejecuta:
+Para instalar la librería, solo pon en tu terminal:
 
 ```bash
 pip install cord64
