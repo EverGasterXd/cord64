@@ -7,7 +7,7 @@
 Para instalar la librería, navega al directorio donde se encuentra `setup.py` y ejecuta:
 
 ```bash
-
+pip install cord64
 ```
 Uso
 A continuación se muestra un ejemplo de cómo usar las funciones convert_archive_to_base64 y base64_to_archive:
@@ -18,7 +18,7 @@ from cord64.convert import convert_archive_to_base64, base64_to_archive
 file_path = "ruta/al/archivo/image.png"
 
 # Carpeta donde se guardará el archivo decodificado
-output_folder = "output"
+output_folder = "ruta/al/carpeta/output"
 
 # Convertir archivo a Base64
 base64_text = convert_archive_to_base64(file_path)
