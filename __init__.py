@@ -1,0 +1,1 @@
+from .cord64.funciones import convert
