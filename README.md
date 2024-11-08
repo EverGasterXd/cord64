@@ -26,7 +26,7 @@ print(f"Archivo en Base64: {base64_text}")
 
 # Convertir Base64 a archivo y guardarlo en la carpeta especificada
 output_file_path = base64_to_archive(base64_text, output_folder, "image.png")
-print(f"Archivo guardado en: {output_file_path}")
+print(f"Archivo guardado en: {output_folder}")
 ```
 
 ## Funciones
